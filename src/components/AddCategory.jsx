@@ -36,4 +36,7 @@ const AddCategory = ({onNewCategory}) => {
   )
 }
 
-export default AddCategory
+export
+{
+    AddCategory
+} 
