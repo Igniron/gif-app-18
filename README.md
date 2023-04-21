@@ -1,5 +1,10 @@
-App para buscar gifs desarrollada con ract 18 para estudiar
+App creada con React 18 con motivos didacticos.
 
-App to search gifs developed with ract 18 to study
+Buscador de gifs que consume la api de GIPHY.
+
+
+App created with React 18 with didactic reasons.
+
+GIF search engine that consumes the GIPHY api.
 
 
